@@ -18,31 +18,3 @@ Task Stash is a simple and intuitive to-do list application designed to help you
 2. **Mark a Task as Complete**: Click on a task to toggle its completion status.
 3. **Delete a Task**: Click the '×' button next to a task to remove it from the list.
 
-## Code Structure
-
-### HTML
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Home</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header></header>
-    <main>
-        <div class="container">
-            <div class="todo-app">
-                <h2>Task Stash <img src="images/icon.png"/></h2>
-                <div class="row">
-                    <input type="text" id="input-box" placeholder="Enter a task">
-                    <button onclick="addTask()">Add</button>
-                </div>
-                <ul id="list-container"></ul>
-            </div>
-        </div>
-    </main>
-    <script src="script.js"></script>
-</body>
-</html>
