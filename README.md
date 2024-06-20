@@ -19,4 +19,4 @@ Task Stash is a simple and intuitive to-do list application designed to help you
 3. **Delete a Task**: Click the '×' button next to a task to remove it from the list.
 
 ## Visit the Website
-Check out the live version of [Pixelangelo](https://TaskStash.netlify.app).
+Check out the live version of [Task Stash](https://TaskStash.netlify.app).
